@@ -1,3 +1,3 @@
 # Resultatopgoerelse Android
 
-Baseret på UP Hoek projektets. 
+Baseret på UP Hoek projektet. 
